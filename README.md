@@ -4,6 +4,11 @@
 요일 : 월, 수, 금<br/>
 장소 및 시간 : 혜강관 206호/18:30 ~ 22:00
 
+## 수업 계정
+## Stat
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=midnight_sun2006)](https://solved.ac/profile/midnight_sun2006)
+
 ## 수업내용
 ### 1주(Math)
 Fermat’s Little Theorem, Binomial Coeffiecient, Matrix Power
